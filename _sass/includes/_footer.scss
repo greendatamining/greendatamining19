@@ -1,0 +1,51 @@
+.site-footer {
+    @extend %padding-regular;
+    //display: inline-block;
+    text-align: center;
+    width: 100%;
+    color: black;
+    background-color: #10872F;
+    font-size: 0.9em;
+
+    .footer-icons {
+        width: 100%;
+        text-align: left;
+        margin-top: 28px;
+        margin-left: 75px;
+        
+        ul {
+            list-style: none;
+            li {
+                display: inline;
+            }
+            a:hover {
+                color: darken($link-color, 15%);
+            }
+        }
+    }
+    .avatar {
+        height: 6em;  // 12 x 25 is perfect ratio of src image for the GDM logo
+//        width: 15em;
+        float: left;
+        margin-top: -13px;
+        border-radius: 0.2em;
+        margin-right: 0.5em;
+        padding: 10px 10px;
+
+    }
+    p.text{
+        float: right;
+        font-weight: bold;
+        text-align: right;
+    }
+    div.text_small{
+        float: right;
+        font-size: 0.7em;
+        text-align: right;
+        width: 60%;
+    }
+
+    a.footer{
+        color: #383838;
+    }
+}
