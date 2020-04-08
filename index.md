@@ -31,7 +31,7 @@ feature-img: "assets/img/workshop/green3.jpg"
     </div>
     <div>
         <!-- <div class="speaker_name">Katharina Morik</div> -->
-        <div class="speaker_name"><a href="https://greendatamining.github.io/keynote/#morik">Katharina Morik</a></div>
+        <div class="speaker_name"><a href="https://greendatamining.github.io/greendatamining19/keynote/#morik">Katharina Morik</a></div>
         <div class="speaker_aff">TU Dortmund University</div>
     </div>
 </div>
@@ -42,8 +42,8 @@ feature-img: "assets/img/workshop/green3.jpg"
     </div>
     <div>
         <div class="speaker_name">
-            <a href="https://greendatamining.github.io/keynote/#paul">Paul Whatmough</a>
-            <!-- <a href="https://greendatamining.github.io/keynote/#paul">Paul Whatmough</a> -->
+            <a href="https://greendatamining.github.io/greendatamining19/keynote/#paul">Paul Whatmough</a>
+            <!-- <a href="https://greendatamining.github.io/greendatamining19/keynote/#paul">Paul Whatmough</a> -->
         </div>
         <div class="speaker_aff">Arm ML Research Lab and Harvard University</div>
     </div>
@@ -55,8 +55,8 @@ feature-img: "assets/img/workshop/green3.jpg"
     </div>
     <div>
         <div class="speaker_name">
-            <a href="https://greendatamining.github.io/keynote/#rikard">Rikard König</a>
-            <!-- <a href="https://greendatamining.github.io/keynote/#paul">Paul Whatmough</a> -->
+            <a href="https://greendatamining.github.io/greendatamining19/keynote/#rikard">Rikard König</a>
+            <!-- <a href="https://greendatamining.github.io/greendatamining19/keynote/#paul">Paul Whatmough</a> -->
         </div>
         <div class="speaker_aff">Ekkono Solutions</div>
     </div>
